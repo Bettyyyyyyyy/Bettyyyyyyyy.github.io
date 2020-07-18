@@ -1,0 +1,49 @@
+p, a, li, h3 {
+    color: #F1C40F ;
+    width: 500px;
+    /*border: 1px solid #b82174;*/
+  }
+
+img[alt] {
+    width: 200px;
+    border: 50px solid #b82174;
+}
+
+/*a:hover{
+    color: chartreuse;
+}*/
+p:hover, a:hover{
+    color: #b82174;
+}
+img{
+    width: 200px;
+    border: 50px solid #d3d008;
+    display: block;
+    margin: 0 auto;
+}
+html {
+    background-color: #FAF3D1 ;
+    font-size: 100px; 
+    font-family: 'Do Hyeon', sans-serif;
+  }
+
+h3{
+    background-color: sandybrown;
+    text-shadow: -5px 3px 10px rgb(68, 68, 68);
+    font-size: 60px;
+    font-family: 'Fjalla One', sans-serif;;
+    text-align: center;
+    letter-spacing: 5px;
+    margin: 0;
+    padding: 20px 0;
+}
+p, li{
+    font-size: 20px;
+    line-height: 3;
+    letter-spacing: 5px;
+}
+
+body {
+    margin: 20px 20px;
+    padding: 10px 20px 20px 20px;
+}
